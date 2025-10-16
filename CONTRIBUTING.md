@@ -29,3 +29,5 @@ Your branch must be prefixed by a description of its function eg. 'FIX', 'NEW', 
 ## Code of Conduct
 
 We maintain a polite and respectful development community and one which is welcoming of people from all backgrounds. As such, we invite all those who participate in our community to help us foster a safe and positive experience for everyone. We expect our community members to treat their peers with respect. Harassment of any kind, including racism, hate speech, harmful language, etc. will NOT be tolerated. If your behavior is not in line with those community expectations you will be removed from community discussions and lose any review abilities or other community standings which have been entrusted to you.
+
+<!-- Auto-update: 2025-10-16T11:59:53.101726 -->
